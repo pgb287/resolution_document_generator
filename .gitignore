@@ -1,0 +1,14 @@
+# Carpetas
+env/
+resoluciones_pdf/
+temp_docx/
+
+__pycache__/
+*.py[cod]
+.vscode/
+
+# Datos
+*.xlsx
+*.csv
+*.docx
+logs.txt
